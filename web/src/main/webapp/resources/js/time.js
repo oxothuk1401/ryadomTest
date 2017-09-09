@@ -1,1 +1,0 @@
-time_is_widget.init({Minsk_z71b:{}});

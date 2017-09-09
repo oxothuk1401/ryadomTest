@@ -13,9 +13,4 @@ public class Controller {
     public String welcome() {
         return "index";
     }
-
-    @RequestMapping(value = {"/ves"}, method = RequestMethod.GET)
-    public String ves() {
-        return "ves";
-    }
 }
